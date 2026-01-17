@@ -70,7 +70,7 @@ Before starting, make sure you have:
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/rajkundalia/langsmith-learning.git
 cd langsmith-learning
 
 # Install dependencies
