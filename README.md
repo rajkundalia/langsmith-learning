@@ -136,7 +136,7 @@ Your "LLM call history" - every traced run appears here.
 - Latency patterns across runs
 - Token usage and estimated costs
 
-### Trace View (Most Important!)
+### Trace View
 
 The detailed view of a single LLM call showing exactly what happened.
 
