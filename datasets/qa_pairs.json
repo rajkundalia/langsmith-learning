@@ -1,0 +1,26 @@
+[
+  {
+    "input": "What is the capital of France?",
+    "expected_output": "Paris"
+  },
+  {
+    "input": "In what year did World War II end?",
+    "expected_output": "1945"
+  },
+  {
+    "input": "What is photosynthesis?",
+    "expected_output": "Photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to produce oxygen and energy in the form of sugar."
+  },
+  {
+    "input": "What is democracy?",
+    "expected_output": "Democracy is a system of government where citizens exercise power by voting, either directly or through elected representatives."
+  },
+  {
+    "input": "Is Python a good programming language?",
+    "expected_output": "Python is excellent for beginners, data science, and rapid prototyping due to its readable syntax and extensive libraries, though it may be slower than compiled languages for performance-critical applications."
+  },
+  {
+    "input": "What should I learn first as a beginner programmer?",
+    "expected_output": "Start with programming fundamentals like variables, loops, and functions. Python is often recommended for beginners due to its clear syntax."
+  }
+]
